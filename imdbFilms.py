@@ -1,3 +1,5 @@
+# author: Rafael Salimov // https://github.com/thesaintraphael
+
 import requests
 from bs4 import BeautifulSoup
 
