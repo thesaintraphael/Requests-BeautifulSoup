@@ -6,5 +6,6 @@ Taking names of top 250 films on IMDb
   Use theese comands:
 
   pip install requests
+  
   pip install beautifulsoup4
   
